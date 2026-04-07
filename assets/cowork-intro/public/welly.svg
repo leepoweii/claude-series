@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="145.541" height="36" viewBox="0 0 145.541 36">
+    <defs>
+        <style>
+            .cls-1{fill:#1a1a1a}
+        </style>
+    </defs>
+    <g id="img_logo" transform="translate(-99.058 -122.53)">
+        <g id="Group_3186" data-name="Group 3186" transform="translate(99.058 122.53)">
+            <path id="Path_92" data-name="Path 92" class="cls-1" d="m250.309 234.828 5.958 6.545 6.592-16.564z" transform="translate(-227.671 -209.501)"/>
+            <path id="Path_93" data-name="Path 93" d="m99.058 122.53 12.653 31.9 23.352-18.643z" transform="translate(-99.058 -122.53)" style="fill:#fdda5a"/>
+        </g>
+        <g id="Group_3187" data-name="Group 3187" transform="translate(143.66 130.132)">
+            <path id="Path_94" data-name="Path 94" class="cls-1" d="M646.887 218.67h-11.011a3.852 3.852 0 0 0 1.582 2.33 4.768 4.768 0 0 0 2.856.906 14.845 14.845 0 0 0 6.174-1.566v3.425a16.872 16.872 0 0 1-2.941 1.144 15.738 15.738 0 0 1-4.4.514 10.369 10.369 0 0 1-4.915-1.075 7.173 7.173 0 0 1-3.033-2.918 8.571 8.571 0 0 1-1.006-4.177 8.377 8.377 0 0 1 1.006-4.123 6.987 6.987 0 0 1 3.033-2.857 10.691 10.691 0 0 1 4.915-1.036 8.662 8.662 0 0 1 3.678.821 6.733 6.733 0 0 1 2.918 2.688 9.1 9.1 0 0 1 1.144 4.815zm-5.191-2.734a3.648 3.648 0 0 0-.745-2.4 2.626 2.626 0 0 0-2.143-.9 2.915 2.915 0 0 0-2.235.914 3.361 3.361 0 0 0-.852 2.388z" transform="translate(-595.298 -203.865)"/>
+            <path id="Path_95" data-name="Path 95" class="cls-1" d="M799.028 194.612h-5.544v-21.286h5.544z" transform="translate(-734.149 -173.326)"/>
+            <path id="Path_96" data-name="Path 96" class="cls-1" d="M881.548 194.612H876v-21.286h5.544z" transform="translate(-804.318 -173.326)"/>
+            <path id="Path_97" data-name="Path 97" class="cls-1" d="m968.586 211.085-10.628 22.746h-5.59l4.3-9.154-6.189-13.592h5.944l3.179 7.771 3.609-7.771z" transform="translate(-867.646 -205.433)"/>
+            <path id="Path_98" data-name="Path 98" class="cls-1" d="M428.932 173.326h-5.29l-4.559 9.923-3.927-9.923h-4.363l-3.948 9.923-4.5-9.923h-5.3l9.791 21.286 6.13-15.2 6.13 15.2z" transform="translate(-397.053 -173.326)"/>
+        </g>
+    </g>
+</svg>

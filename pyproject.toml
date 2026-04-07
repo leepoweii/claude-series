@@ -1,0 +1,7 @@
+[project]
+name = "claude-series"
+version = "0.1.0"
+description = "Claude 系列教學 — 課程工具腳本"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []

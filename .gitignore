@@ -4,3 +4,9 @@ node_modules/
 out/
 dist/
 .env
+
+# Python / uv
+.venv/
+__pycache__/
+*.pyc
+.python-version

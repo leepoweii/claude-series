@@ -51,8 +51,8 @@ npm install
 ```
 ep0-terms/            Ep 0：名詞解釋
 s1-chat/              Series 1：Claude Chat
-  1-1-interface/        介面導覽
-  1-2-connector/        Google Calendar Connector
+  1-1-interface-connector/  介面導覽 + Google Calendar Connector
+  1-2-artifact/             資料分析 + Artifact 互動圖表
 s2-cowork/            Series 2：Claude CoWork
   2-1-context/          Project + Context
   2-2-skills/           Skill 設定

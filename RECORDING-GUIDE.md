@@ -76,7 +76,7 @@ git clone https://github.com/leepoweii/claude-series.git
 
 ### 2.5 1-2 集的 CSV 下載到桌面
 
-從 `claude-series/s1-chat/1-2-research/data/` 複製這兩份到桌面（不是放進半畝咖啡資料夾）：
+從 `claude-series/s1-chat/1-2-artifact/data/` 複製這兩份到桌面（不是放進半畝咖啡資料夾）：
 - [ ] 餐飲業登記.csv
 - [ ] 家庭收支.csv
 
@@ -188,7 +188,7 @@ Day 3
 ---
 
 ### 1-2 — 資料分析 + Artifact
-- **課綱：** `s1-chat/1-2-research/課綱.md`
+- **課綱：** `s1-chat/1-2-artifact/課綱.md`
 - **準備：** 桌面已有兩份 CSV（餐飲業登記、家庭收支）
 - **Demo：** 上傳 CSV → AI 萃取縣市 → 跨資料分析 → Artifact 散佈圖 → 分享連結
 - **亮點：** Artifact 互動 + 不用 Excel 的對比

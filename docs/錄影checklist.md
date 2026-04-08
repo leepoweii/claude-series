@@ -1,4 +1,13 @@
-# 錄影 Checklist — Claude CoWork 教學
+# ⚠️ DEPRECATED — 此檔案為舊版（單次 2 小時 4 章節錄影）
+
+> **新的指南請看 repo root 的 `RECORDING-GUIDE.md`**
+> 那是針對 11 集獨立錄製的完整流程指南。
+>
+> 此檔案保留以記錄歷史，請勿使用。
+
+---
+
+# 舊版 Checklist（4 章節單次錄影版本）
 
 > 按順序做，打勾就好。
 
